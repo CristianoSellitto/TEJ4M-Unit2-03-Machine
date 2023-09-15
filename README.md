@@ -1,6 +1,6 @@
 # TEJ4M-Unit2-03-Machine
 
-Adding and subtracting programs using machine code.
+Adding and subtracting programs written in machine code.
 
 Run these programs using https://github.com/Mr-Coxall/TEJ4M-8-Bit-Computer-Emulator
 
